@@ -24,7 +24,7 @@ Hi, I'm Kimiwws1, a professional Discord bot developer that code shit like Disco
 
 ## My Shit
 ## DiscordTogether
-####A bot I made uwu
+##### A bot I made uwu
 
 <a href="https://top.gg/bot/898983021305294869">
   <img src="https://top.gg/api/widget/898983021305294869.svg">
