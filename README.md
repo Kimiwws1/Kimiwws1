@@ -6,6 +6,7 @@ A crazy developer who spends his time on making bots rather than gathering enoug
 
 ### Alliance
 > [45i](https://github.com/45i)
+
 > [EnderArcherBoi](https://github.com/EnderArcherBoy)
 
 ## Stats
