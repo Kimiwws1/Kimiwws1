@@ -3,7 +3,7 @@ Hi, I'm Kimiwws1, a professional Discord bot developer that code shit like Disco
 
 ### Alliance
 
-## Dem Stats
+## Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Kimiwws1&count_private=true&theme=synthwave&showicons=true)]()
 ### Trophies
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kimiwws1" alt="Kimiwws1" /></a> </p>
