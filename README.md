@@ -12,7 +12,7 @@ A crazy developer who spends his time on making bots rather than gathering enoug
 
 Well you can [DM me on Discord](https://discord.com/users/772756852571766795). I have Whatsapp but it's for private use. You can join my [Support Server](https://discord.gg/kj9zzNruCg) if you want.
 
-### Alliance
+### Alliance/Friends?
 > [45i](https://github.com/45i)
 
 > [EnderArcherBoi](https://github.com/EnderArcherBoy)
