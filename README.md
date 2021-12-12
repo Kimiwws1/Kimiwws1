@@ -1,8 +1,16 @@
-## Who is this guy??
+### Who is this guy??
 Hi, I'm Kimiwws1, a professional Discord bot developer that code shit like DiscordTogether or Uwu and stuff.
 
 ## About Me
 A crazy developer who spends his time on making bots rather than gathering enough money for student loans. He loves talking to people but shy most of the time. He's a very friendly guy ngl. He mostly spends his time with he's family and friends and his **laptop**. He spends over 17 hours on coding **most of the time** but he does go out with his girlfriend(yup he has one) take a morning walk with his sister and spends most of the nights playing video games, board games and other activities. In conclusion, he's a [Josh](https://www.urbandictionary.com/define.php?term=josh).
+
+**Pronouns**: He/Him
+
+**Current Age**: 17
+
+**Is there anyway YOU can contact me?**
+
+Well you can [DM me on Discord](https://discord.com/users/772756852571766795). I have Whatsapp but it's for private use. You can join my [Support Server](https://discord.gg/kj9zzNruCg) if you want.
 
 ### Alliance
 > [45i](https://github.com/45i)
