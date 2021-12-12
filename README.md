@@ -8,7 +8,7 @@ Hi, I'm Kimiwws1, a professional Discord bot developer that code shit like Disco
 ### Trophies
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kimiwws1" alt="Kimiwws1" /></a> </p>
 
-### Dat Smokin' Hot 🥵
+### Other stuff idk
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kimiwws1&show_icons=true&locale=en&layout=comfortable" alt="Kimiwws1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kimiwws1&" alt="Kimiwws1" /></p>                                                                                                      
