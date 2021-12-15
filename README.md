@@ -1,6 +1,5 @@
 ## Who is this guy??
 Hi, I'm Kimiwws1, a professional Discord bot developer that code craps like DiscordTogether or Uwu and stuff.
-
 <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
 <script>
   kofiWidgetOverlay.draw('kimiwws1', {
