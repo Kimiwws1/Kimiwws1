@@ -6,7 +6,7 @@ A crazy developer who spends his time on making bots rather than gathering enoug
 
 **Pronouns**: He/Him
 
-**Current Age**: 17
+**Current Age**: 18 ( ͡° ͜ʖ ͡°)
 
 **Is there anyway YOU can contact me?**
 
